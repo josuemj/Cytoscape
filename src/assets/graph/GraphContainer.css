@@ -1,0 +1,7 @@
+.cy-container {
+    width: 800px; /* Increased width */
+    height: 600px; /* Increased height */
+    border: 1px solid #ccc;
+    margin: 0 auto; /* Center the container */
+  }
+  
